@@ -10,3 +10,17 @@ Overview of the proposed model. The model is composed of two modules: the interv
 
 ## Results on MS-COCO:
 ![fig](images/COCO.png)
+
+
+
+# BibTex
+```
+@InProceedings{Liu_2022_CVPR,
+    author    = {Liu, Ruyang and Liu, Hao and Li, Ge and Hou, Haodi and Yu, TingHao and Yang, Tao},
+    title     = {Contextual Debiasing for Visual Recognition With Causal Mechanisms},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {12755-12765}
+}
+```
